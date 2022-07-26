@@ -1,1 +1,1 @@
-console.log('Esto es una app de tareas');
+console.log('Esto es una app de tareas, pero por el momento no tiene funcionalidad');
